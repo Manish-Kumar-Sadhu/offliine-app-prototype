@@ -1,0 +1,22 @@
+{
+  "name": "offline-app-server",
+  "version": "1.0.0",
+  "description": "offline-app-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manish-Kumar-Sadhu/offliine-app-prototype.git"
+  },
+  "keywords": [
+    "offline-app-server"
+  ],
+  "author": "Manish Sadhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manish-Kumar-Sadhu/offliine-app-prototype/issues"
+  },
+  "homepage": "https://github.com/Manish-Kumar-Sadhu/offliine-app-prototype#readme"
+}
