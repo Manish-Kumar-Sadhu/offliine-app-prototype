@@ -1,12 +1,10 @@
-import React, { FunctionComponent } from 'react';
-import PropTypes from 'prop-types';
+import React, { FunctionComponent } from "react";
+import PropTypes from "prop-types";
 
-interface HomeProps {
-    
-}
- 
+interface HomeProps {}
+
 const Home: React.FunctionComponent<HomeProps> = () => {
-    return (  <></> );
-}
- 
+  return <></>;
+};
+
 export default Home;
